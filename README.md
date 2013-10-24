@@ -12,12 +12,6 @@
 
 
 
-# 通过捐款支持该项目
-如果该项目对您有利用价值的话， 可以通过捐款的方式， 支持作者继续更新该项目或者做出其他更多好玩好用的开源应用： 比如修补漏洞、添加更多有趣的章节， 或者发行有更多更棒内容的下一版，或者改善等等。
-
-捐款地址： [http://apkplug.com/](http://apkplug.com/)
-
-
 ## 交流
 apkplug技术QQ交流群欢迎大家加入Q:322543174
 
@@ -29,9 +23,6 @@ apkplug技术QQ交流群欢迎大家加入Q:322543174
  - 
  - 
 
-
-## 授权许可
-除特别声明外，本书中的内容使用[CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循[BSD 3-Clause License](<http://apkplug.com/>)（3项条款的BSD许可协议）。
 
 ## 开始阅读
 [开始阅读](<https://github.com/qijian0503/apkplug/tree/master/ebook/preface.md>)
