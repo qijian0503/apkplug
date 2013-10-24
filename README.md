@@ -1,4 +1,33 @@
 # 《ApkPlug 文档》
+目前这本书已经出版，如果你觉得内容还可以，你可以通过下面几个途径购买，谢谢支持：
+
+
+# 通过捐款支持本书
+如果你喜欢这本《Go Web编程》的话， 可以通过捐款的方式， 支持作者继续更新本书或者做出其他更多好玩好用的开源应用： 比如为本书修补漏洞、添加更多有趣的章节， 或者发行有更多更棒内容的下一版，或者改善beego等等。
+
+捐款地址： [http://apkplug.com/](http://apkplug.com/)
+
+
+## 交流
+apkplug技术QQ交流群欢迎大家加入Q:322543174
+
+论坛交流：[http://apkplug.com](http://apkplug.com)
+
+## 致谢
+首先要感谢apkplug的QQ群322543174，里面的每一个人都很热心，同时要特别感谢几个人
+
+ - 
+ - 
+
+
+## 授权许可
+除特别声明外，本书中的内容使用[CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循[BSD 3-Clause License](<http://apkplug.com/>)（3项条款的BSD许可协议）。
+
+## 开始阅读
+[开始阅读](<https://github.com/qijian0503/apkplug/tree/master/ebook/preface.md>)
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/44c98c9d398b8319b6e87edcd3e34144 "githalytics.com")](http://apkplug.com/)
 
 
 
